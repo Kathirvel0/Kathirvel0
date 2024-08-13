@@ -15,8 +15,8 @@ im good boy
 ## 💼 Work Experience
 - [it] at [tecnology] (13/06/2004 - 30/07/2004)
 ## 📫 How to reach me
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn profile URL]
+- Email: [kathir72909@gmail.com]
+- instegram : [mr jiraiya]
 - Twitter: [@YourTwitterHandle]
 
 ## 📊 GitHub Stats
