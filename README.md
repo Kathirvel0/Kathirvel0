@@ -6,7 +6,6 @@ im good boy
 ## 🛠 Skills
 - dance
 - sports
-- ...
 
 ## 🔭 Current Projects
 - [Project 1]: [Brief description]
