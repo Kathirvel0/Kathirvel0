@@ -8,20 +8,12 @@ im good boy
 - sports
 
 ## 🔭 Current Projects
-- [Project 1]: [Brief description]
-- [Project 2]: [Brief description]
-- ...
+- optimus
 
 ## 🌱 I'm currently learning
-- [Technology/Skill 1]
-- [Technology/Skill 2]
-- ...
-
+- java script
 ## 💼 Work Experience
-- [Job Title] at [Company] (Start Date - End Date)
-- [Job Title] at [Company] (Start Date - End Date)
-- ...
-
+- [it] at [tecnology] (13/06/2004 - 30/07/2004)
 ## 📫 How to reach me
 - Email: [your.email@example.com]
 - LinkedIn: [Your LinkedIn profile URL]
