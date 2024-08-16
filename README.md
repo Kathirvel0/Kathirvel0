@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm kathirvel
 
 ## 🚀 About Me
-im good boy
+im BAD boy
 
 ## 🛠 Skills
 - dance
